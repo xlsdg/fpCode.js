@@ -1,5 +1,5 @@
 {
-  "name": "fpCode",
+  "name": "fpcode",
   "version": "1.0.3",
   "description": "Flower Password implementation for the browser and node.js",
   "main": "lib/fpCode.js",

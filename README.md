@@ -5,14 +5,14 @@ Flower Password implementation for the browser and node.js
 ## Installation
 
 ```
-$ npm install --save fpCode
+$ npm install --save fpcode
 ```
 
 
 ## Usage
 
 ```
-const fpCode = require('fpCode');
+const fpCode = require('fpcode');
 ```
 
 The **fpCode** method:
