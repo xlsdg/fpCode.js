@@ -2,13 +2,11 @@
 
 > Flower Password implementation for the browser and node.js
 
-
 ## Installation
 
 ```
 $ npm install --save fpcode
 ```
-
 
 ## Usage
 
@@ -22,6 +20,6 @@ The **fpCode** method:
 var code = fpCode('password', 'key', 16);
 ```
 
-# License
+## License
 
 MIT

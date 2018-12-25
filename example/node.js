@@ -1,3 +1,3 @@
-const fpCode = require('../lib/fpCode.min.js');
+const fpCode = require('../dist/flowerpassword.js');
 
 console.log(fpCode('password', 'key', 16));
