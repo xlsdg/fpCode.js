@@ -1,6 +1,6 @@
 {
   "name": "fpcode",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Flower Password implementation for the browser and node.js",
   "main": "dist/flowerpassword.js",
   "umd:main": "dist/flowerpassword.umd.js",
