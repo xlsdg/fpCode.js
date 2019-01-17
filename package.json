@@ -11,7 +11,7 @@
     "src"
   ],
   "scripts": {
-    "build": "microbundle --name fpCode --external blueimp-md5=md5",
+    "build": "microbundle --name fpCode --external all",
     "dev": "microbundle watch",
     "release:major": "npm version major && npm publish",
     "release:minor": "npm version minor && npm publish",
